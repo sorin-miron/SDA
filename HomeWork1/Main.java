@@ -1,4 +1,4 @@
-package HomeWork1;
+package HomeWork1.HomeWork1;
 
 public class Main {
 

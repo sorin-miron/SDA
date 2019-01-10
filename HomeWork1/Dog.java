@@ -1,4 +1,4 @@
-package HomeWork1;
+package HomeWork1.HomeWork1;
 
 public class Dog extends Animal {
     private String color;
@@ -22,8 +22,6 @@ public class Dog extends Animal {
 
     @Override
     public String toString() {
-        String text = super.toString() +
-                " and the color='" + color + '\'' + ".";
-        return text;
+        return super.toString() + " and the color='" + color + '\'' + ".";
     }
 }
